@@ -4,10 +4,12 @@ public class User {
     private String Id;
     private String username;
     private String ImageURL;
-    public User(String user_id, String userName, String image_URL){
+    private String status;
+    public User(String user_id, String userName, String image_URL,String Status){
         Id=user_id;
         username=userName;
         ImageURL=image_URL;
+        status=Status;
 
     }
     public User(){
@@ -33,5 +35,8 @@ public class User {
         return Id;
     }
 
+    public String getStatus() {
+        return status;
+    }
 }
 
