@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239804875576",
+    "firebase_url": "https://chatapp-b209b.firebaseio.com",
+    "project_id": "chatapp-b209b",
+    "storage_bucket": "chatapp-b209b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239804875576:android:58f24a28ee652a88f137cd",
+        "android_client_info": {
+          "package_name": "com.example.talksquad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239804875576-qipkd2g26g3con5pgn8vl6jb004q8rd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBu8Vtg6YlczBQRtiKIXeU32-nxqfPvONE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239804875576-qipkd2g26g3con5pgn8vl6jb004q8rd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
